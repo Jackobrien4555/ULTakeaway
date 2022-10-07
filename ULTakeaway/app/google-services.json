@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90546683224",
+    "project_id": "ultakeaway-523b4",
+    "storage_bucket": "ultakeaway-523b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90546683224:android:4e1cc5f5d4e69f7adbb92d",
+        "android_client_info": {
+          "package_name": "ie.ul.ultakeaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90546683224-7fg3uttsgmo9vgiu2f7bq4vm4bnaj91s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbm1El6SJ7YLC1r7IHmfBe3ILv4joWZFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90546683224-7fg3uttsgmo9vgiu2f7bq4vm4bnaj91s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
